@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HadjSassi Mahdi
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning machine learning
-- 📫 How to reach me via mail: mahdihadjsassi1@gmail.com
+- 📫 How to reach me via mail: mahdihadjsassi1@gmail.com or mahdihadjsassi@ieee.org or mahdi.hadjsassi@ensit.u-tunis.tn
 
 ### 🌐 Languages
 
